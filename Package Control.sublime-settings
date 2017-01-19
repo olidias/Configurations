@@ -6,6 +6,32 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
-		"HTML5"
+		"ApacheConf.tmLanguage",
+		"ARM Assembly",
+		"AutoFileName",
+		"BracketHighlighter",
+		"C Improved",
+		"Dockerfile Syntax Highlighting",
+		"Exalt",
+		"Gitignore",
+		"GitSavvy",
+		"Handlebars",
+		"HexViewer",
+		"HTML5",
+		"Indent XML",
+		"INI",
+		"IntelliDocs",
+		"LaTeXTools",
+		"MinimalFortran",
+		"MSBuild",
+		"NuGet",
+		"Package Control",
+		"PowerShell",
+		"RailsCasts Colour Scheme",
+		"SideBarEnhancements",
+		"SublimeGDB",
+		"Theme - Cobalt2",
+		"TrailingSpaces",
+		"XAML"
 	]
 }
